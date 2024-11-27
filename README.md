@@ -12,3 +12,6 @@ Get RCE based on the new admin account created
 ```
 sudo apt install php-curl
 ```
+
+
+![Guppy 6.0 RCE Image](https://raw.githubusercontent.com/NketiahGodfred/Guppy-6.0-RCE/main/guppy-image.png)
